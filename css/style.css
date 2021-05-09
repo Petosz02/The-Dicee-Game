@@ -1,0 +1,36 @@
+h1 {
+  color: #254441;
+  font-family: cursive;
+}
+
+body {
+  background-color: #7B9E89;
+
+}
+
+button {
+  background-color: #7A9B76;
+  color: #254441;
+  font-size: 2rem;
+  font-family: fantasy;
+}
+
+img {
+  width: 50%
+}
+
+p {
+  font-size: 2rem;
+  color: #856A5D;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
